@@ -1,0 +1,11 @@
+{
+  "name": "toa",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node --harmony app.js"
+  },
+  "dependencies": {
+    "toa": "~0.10.0"
+  }
+}
