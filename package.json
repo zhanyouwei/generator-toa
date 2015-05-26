@@ -1,6 +1,6 @@
 {
   "name": "generator-toa",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Toa generator for Yeoman",
   "license": "MIT",
   "main": "app/index.js",
@@ -17,9 +17,9 @@
     "generators"
   ],
   "keywords": [
+    "yeoman-generator",
     "toa",
-    "generate-toa",
-    "yeoman-generator"
+    "generate-toa"
   ],
   "dependencies": {
     "yeoman-generator": "^0.19.0",
